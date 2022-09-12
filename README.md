@@ -1,5 +1,5 @@
 # Urban Computing Lab 1
-This repository contains the first assignment for the Urban Computing course in fall 2021. The excersises can be found in *"Lab1_Exercises.ipynb"*. Note that this is merely a warm-up exercise and that it **will not be graded nor does it have to be submitted.**
+This repository contains the first assignment for the Urban Computing course in fall 2022. The excersises can be found in *"Lab1_Exercises.ipynb"*. Note that this is merely a warm-up exercise and that it **will not be graded nor does it have to be submitted.**
 
 Before we can work on them we need to set up the environment that we will use during this year's edition of the course. We will use the same method of working throughout the course and that it will make our submission process smoother for later exercises, so make sure to familiarise yourself with it. We will be working in *development containers* that are completely isolated from your system's OS and software. One of the benefits of this approach is that you won't have to install any languages and dependencies on your machine and that everyone uses the exact same environment. This will benefit reproducibility and allows us to work cross-platform effortlessly.
 
