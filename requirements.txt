@@ -4,7 +4,7 @@ notebook
 matplotlib
 openrouteservice
 folium
-foursquare
 line_profiler
 ipykernel<6
 jupyterlab<3.1
+requests
